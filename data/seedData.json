@@ -1,0 +1,7827 @@
+[
+  {
+    "name": "Z Aerodrome Road truck stop",
+    "address": "Aerodrome Road",
+    "hours": "Open 24 hours",
+    "services": ["AdBlue Diesel Exhaust Fluid"],
+    "link": "https://www.z.co.nz/find-a-station/station/z-aerodrome-road-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.71
+      }
+    ],
+    "coordinates": {
+      "lat": 51.594415,
+      "lon": -0.2405971
+    }
+  },
+  {
+    "name": "Z Hornby North truck stop",
+    "address": "74 Carmen Road",
+    "hours": "Open 24 hours",
+    "services": ["AdBlue Diesel Exhaust Fluid"],
+    "link": "https://www.z.co.nz/find-a-station/station/z-hornby-north-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.14
+      }
+    ],
+    "coordinates": {
+      "lat": -43.5366818,
+      "lon": 172.5293314
+    }
+  },
+  {
+    "name": "Z 11th Ave",
+    "address": "Cnr Eleventh Avenue and Cameron Road, Tauranga",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-11th-ave/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.06
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.93
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.02
+      }
+    ],
+    "coordinates": {
+      "lat": -37.7086998,
+      "lon": 176.1485077
+    }
+  },
+  {
+    "name": "Z 15th Ave",
+    "address": "10-18 Fifteenth Avenue, Tauranga",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-15th-ave/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.43
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.25
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.42
+      }
+    ],
+    "coordinates": {
+      "lat": -37.7112734,
+      "lon": 176.1654158
+    }
+  },
+  {
+    "name": "Z Addington",
+    "address": "250 Lincoln Road, Addington, Christchurch",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-addington/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.02
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.79
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.98
+      }
+    ],
+    "coordinates": {
+      "lat": -43.5457832,
+      "lon": 172.6084469
+    }
+  },
+  {
+    "name": "Z Albany",
+    "address": "287 Oteha Valley Road, Albany",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Bathrooms",
+      "Pay by plate",
+      "Compostable Cups"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-albany/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.36
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.49
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.48
+      }
+    ],
+    "coordinates": {
+      "lat": -36.7257045,
+      "lon": 174.6979471
+    }
+  },
+  {
+    "name": "Z Andy Bay",
+    "address": "333 Andersons Bay Road, Andy Bay, Dunedin",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "EV Charging - Coming Soon",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Pay by plate"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-andy-bay/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.16
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.22
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.21
+      }
+    ],
+    "coordinates": {
+      "lat": -45.8926326,
+      "lon": 170.5032151
+    }
+  },
+  {
+    "name": "Z Avondale",
+    "address": "50-60 Ash Street, Avondale, West Auckland",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "Compostable Cups"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-avondale/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.22
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.42
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.36
+      }
+    ],
+    "coordinates": {
+      "lat": -36.8959916,
+      "lon": 174.6884762
+    }
+  },
+  {
+    "name": "Z Awakeri truck stop",
+    "address": "State Highway 30, Whakatane",
+    "hours": "Open 24 hours",
+    "services": ["Bathrooms", "AdBlue Diesel Exhaust Fluid"],
+    "link": "https://www.z.co.nz/find-a-station/station/z-awakeri-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.41
+      }
+    ],
+    "coordinates": {
+      "lat": -37.9514042,
+      "lon": 176.9519477
+    }
+  },
+  {
+    "name": "Z Barrington",
+    "address": "253 Barrington Street, Christchurch",
+    "hours": "Opening hours",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-barrington/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.85
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.02
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.9
+      }
+    ],
+    "coordinates": {
+      "lat": -43.5573346,
+      "lon": 172.6186453
+    }
+  },
+  {
+    "name": "Z Beach Rd truck stop",
+    "address": "150 Beach Road",
+    "hours": "Open 24 hours",
+    "services": ["Bathrooms"],
+    "link": "https://www.z.co.nz/find-a-station/station/z-beach-rd-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.93
+      }
+    ],
+    "coordinates": {
+      "lat": 1.2984041,
+      "lon": 103.8589041
+    }
+  },
+  {
+    "name": "Z Belfast",
+    "address": "Cnr Main North Road and Johns Road, Belfast",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Pay by plate",
+      "Fast fill Diesel lane",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-belfast/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.03
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.08
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.9
+      }
+    ],
+    "coordinates": {
+      "lat": -43.4533964,
+      "lon": 172.6272726
+    }
+  },
+  {
+    "name": "Z Bethlehem",
+    "address": "253B State Highway 2",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "EV Charging - Fast",
+      "EV Charging - Fast &/or Ultra-Fast",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Pay by plate"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-bethlehem/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.06
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.77
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.86
+      }
+    ],
+    "coordinates": {
+      "lat": -37.6959199,
+      "lon": 176.1071637
+    }
+  },
+  {
+    "name": "Z Bishopdale",
+    "address": "210 Harewood Road, Bishopdale, Christchurch",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pay in app",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-bishopdale/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.32
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.12
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.02
+      }
+    ],
+    "coordinates": {
+      "lat": -43.4897099,
+      "lon": 172.5930831
+    }
+  },
+  {
+    "name": "Z Botany Downs",
+    "address": "550 Te Irirangi Drive, Botany Downs, Auckland",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "EV Charging - Fast",
+      "EV Charging - Fast &/or Ultra-Fast",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "Compostable Cups",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-botany-downs/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.32
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.24
+      }
+    ],
+    "coordinates": {
+      "lat": -36.9308329,
+      "lon": 174.9109426
+    }
+  },
+  {
+    "name": "Z Broadway",
+    "address": "Cnr Calabar Rd and Broadway, Strathmore",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Compostable Cups",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-broadway/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.72
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.04
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.49
+      }
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    }
+  },
+  {
+    "name": "Z Brougham St",
+    "address": "495 Brougham Street",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-brougham-st/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.99
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.17
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.22
+      }
+    ],
+    "coordinates": {
+      "lat": -43.5477746,
+      "lon": 172.6575651
+    }
+  },
+  {
+    "name": "Z Browns Rd",
+    "address": "270 Roscommon Road",
+    "hours": "Open 24 hours",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "Compostable Cups",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-browns-rd/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.2
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.11
+      }
+    ],
+    "coordinates": {
+      "lat": -37.01776770000001,
+      "lon": 174.8619879
+    }
+  },
+  {
+    "name": "Z Bryndwr",
+    "address": "52 Strowan Road, Bryndwr, Christchurch",
+    "hours": "Opening hours",
+    "services": [
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "Compostable Cups",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-bryndwr/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.87
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.1
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.15
+      }
+    ],
+    "coordinates": {
+      "lat": -43.5104979,
+      "lon": 172.6075303
+    }
+  },
+  {
+    "name": "Z Cambridge",
+    "address": "81 Victoria Street, Cambridge",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-cambridge/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.12
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.67
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.27
+      }
+    ],
+    "coordinates": {
+      "lat": -37.891416,
+      "lon": 175.4669814
+    }
+  },
+  {
+    "name": "Z Carlton Corner",
+    "address": "1 Papanui Road, Christchurch",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Pay by plate",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-carlton-corner/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.31
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.5
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.82
+      }
+    ],
+    "coordinates": {
+      "lat": -43.5205115,
+      "lon": 172.6274392
+    }
+  },
+  {
+    "name": "Z Caroline Bay",
+    "address": "62 Theodosia Street, Timaru",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "EV Charging - Ultra-Fast",
+      "EV Charging - Fast &/or Ultra-Fast",
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Pay by plate",
+      "Compostable Cups",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-caroline-bay/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.36
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.28
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.53
+      }
+    ],
+    "coordinates": {
+      "lat": -44.3936301,
+      "lon": 171.2476687
+    }
+  },
+  {
+    "name": "Z Cashmere",
+    "address": "23-25 Colombo Street, Beckenham, Christchurch",
+    "hours": "Opening hours",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-cashmere/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.46
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.23
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.02
+      }
+    ],
+    "coordinates": {
+      "lat": -43.5654443,
+      "lon": 172.6363656
+    }
+  },
+  {
+    "name": "Z Central Parade",
+    "address": "500 Maunganui Road, Mount Maunganui",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-central-parade/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.29
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.01
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.96
+      }
+    ],
+    "coordinates": {
+      "lat": -37.6542804,
+      "lon": 176.1995237
+    }
+  },
+  {
+    "name": "Z Clevedon",
+    "address": "24-28 Papakura-Clevedon Road",
+    "hours": "Opening hours",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "Compostable Cups"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-clevedon/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.27
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.58
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.17
+      }
+    ],
+    "coordinates": {
+      "lat": -36.9934813,
+      "lon": 175.0374795
+    }
+  },
+  {
+    "name": "Z Constable St",
+    "address": "35 Constable St, Newtown, Wellington",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pay in app",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-constable-st/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.29
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.07
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.72
+      }
+    ],
+    "coordinates": {
+      "lat": -41.3131577,
+      "lon": 174.7815801
+    }
+  },
+  {
+    "name": "Z Constellation Dr truck stop",
+    "address": "36 Constellation Drive & Vega Place",
+    "hours": "Open 24 hours",
+    "services": ["Bathrooms"],
+    "link": "https://www.z.co.nz/find-a-station/station/z-constellation-dr-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.05
+      }
+    ],
+    "coordinates": {
+      "lat": -36.7485888,
+      "lon": 174.7318302
+    }
+  },
+  {
+    "name": "Z Courtenay St",
+    "address": "Cnr Courtenay Street and Liardet Street, New Plymouth",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "EV Charging - Fast",
+      "EV Charging - Ultra-Fast",
+      "EV Charging - Fast &/or Ultra-Fast",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-courtenay-st/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.92
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.56
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.5
+      }
+    ],
+    "coordinates": {
+      "lat": -39.0580454,
+      "lon": 174.0764824
+    }
+  },
+  {
+    "name": "Z Cromwell truck stop",
+    "address": "McNaulty Road",
+    "hours": "Open 24 hours",
+    "services": [],
+    "link": "https://www.z.co.nz/find-a-station/station/z-cromwell-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.3
+      }
+    ],
+    "coordinates": {
+      "lat": -45.049234,
+      "lon": 169.1844324
+    }
+  },
+  {
+    "name": "Z Curletts Rd",
+    "address": "Cnr Curletts Road and Blenheim Road",
+    "hours": "Open 24 hours",
+    "services": [
+      "EV Charging - Coming Soon",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Pay by plate"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-curletts-rd/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.28
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.76
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.15
+      }
+    ],
+    "coordinates": {
+      "lat": -43.5393696,
+      "lon": 172.5684916
+    }
+  },
+  {
+    "name": "Z Dee St truck stop",
+    "address": "206-214 Dee Street",
+    "hours": "Open 24 hours",
+    "services": ["Bathrooms"],
+    "link": "https://www.z.co.nz/find-a-station/station/z-dee-st-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.11
+      }
+    ],
+    "coordinates": {
+      "lat": -46.4050523,
+      "lon": 168.3468426
+    }
+  },
+  {
+    "name": "Z Tuhikaramea (Z Dinsdale)",
+    "address": "Cnr Whatawhata Road and Tuhikaramea Road, Dinsdale, Hamilton",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Compostable Cups"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-tuhikaramea-z-dinsdale/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.65
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.09
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.21
+      }
+    ],
+    "coordinates": {
+      "lat": -37.8024354,
+      "lon": 175.2449954
+    }
+  },
+  {
+    "name": "Z Dublin St",
+    "address": "14 Dublin Street, Whanganui",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Pay by plate"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-dublin-st/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.24
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.28
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.35
+      }
+    ],
+    "coordinates": {
+      "lat": -39.921864,
+      "lon": 175.0493514
+    }
+  },
+  {
+    "name": "Z Eastside",
+    "address": "116 Grey Street, Hamilton",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-eastside/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.05
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.27
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.79
+      }
+    ],
+    "coordinates": {
+      "lat": -37.7990218,
+      "lon": 175.2966423
+    }
+  },
+  {
+    "name": "Z Ellerslie",
+    "address": "301 Ellerslie-Panmure Highway, Mt Wellington, Auckland",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "Compostable Cups"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-ellerslie/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.07
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.64
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.17
+      }
+    ],
+    "coordinates": {
+      "lat": -36.8981637,
+      "lon": 174.8245958
+    }
+  },
+  {
+    "name": "Z Fairy Springs truck stop",
+    "address": "23 Fairy Springs Road",
+    "hours": "Open 24 hours",
+    "services": ["Bathrooms"],
+    "link": "https://www.z.co.nz/find-a-station/station/z-fairy-springs-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.09
+      }
+    ],
+    "coordinates": {
+      "lat": -38.1230823,
+      "lon": 176.2306706
+    }
+  },
+  {
+    "name": "Z Fenton St",
+    "address": "Cnr Fenton and Victoria Street, Rotorua",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-fenton-st/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.32
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.46
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.13
+      }
+    ],
+    "coordinates": {
+      "lat": -38.1423446,
+      "lon": 176.2537344
+    }
+  },
+  {
+    "name": "Z Ferguson St",
+    "address": "372 Ferguson Street",
+    "hours": "Opening hours",
+    "services": [
+      "Pay in app",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-ferguson-st/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.37
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.22
+      }
+    ],
+    "coordinates": {
+      "lat": -40.3588296,
+      "lon": 175.615467
+    }
+  },
+  {
+    "name": "Z Five Cross Roads",
+    "address": "243 Peachgrove Road, Enderley, Hamilton",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Compostable Cups",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-five-cross-roads/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.3
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.36
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.09
+      }
+    ],
+    "coordinates": {
+      "lat": -37.7725324,
+      "lon": 175.2929809
+    }
+  },
+  {
+    "name": "Z Frankton",
+    "address": "Cnr Lincoln and Edgar Streets, Frankton, Hamilton",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "Compostable Cups"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-frankton/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.4
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.53
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.61
+      }
+    ],
+    "coordinates": {
+      "lat": -37.7867839,
+      "lon": 175.256446
+    }
+  },
+  {
+    "name": "Z Geraldine",
+    "address": "Cnr Waihi Terrace & Pine Street",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Fast fill Diesel lane"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-geraldine/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.66
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.14
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.07
+      }
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    }
+  },
+  {
+    "name": "Z Gladstone",
+    "address": "455 Dee Street, Invercargill",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-gladstone/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.2
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.25
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.56
+      }
+    ],
+    "coordinates": {
+      "lat": -46.3928506,
+      "lon": 168.3477308
+    }
+  },
+  {
+    "name": "Z Glen Innes",
+    "address": "222-236 Apirana Avenue, Glen Innes, Auckland",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Pay by plate",
+      "Compostable Cups"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-glen-innes/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.82
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.56
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.06
+      }
+    ],
+    "coordinates": {
+      "lat": -36.8770867,
+      "lon": 174.8544788
+    }
+  },
+  {
+    "name": "Z Glen Park",
+    "address": "241 Glenfield Road, Hillcrest, North Shore",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Compostable Cups",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-glen-park/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.67
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.44
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.1
+      }
+    ],
+    "coordinates": {
+      "lat": -36.7942886,
+      "lon": 174.7243257
+    }
+  },
+  {
+    "name": "Z Green Bay",
+    "address": "82 Godley Road, Green Bay, Auckland",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "Compostable Cups",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-green-bay/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.12
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.48
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.46
+      }
+    ],
+    "coordinates": {
+      "lat": -36.9312092,
+      "lon": 174.6775892
+    }
+  },
+  {
+    "name": "Z Green Island",
+    "address": "185 Main South Road, Green Island, Dunedin",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-green-island/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.3
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.47
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.47
+      }
+    ],
+    "coordinates": {
+      "lat": -45.9013177,
+      "lon": 170.4314802
+    }
+  },
+  {
+    "name": "Z Greenlane",
+    "address": "128 Greenlane Road, Greenlane, Auckland",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Pay by plate",
+      "Compostable Cups",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-greenlane/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.7
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.9
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.22
+      }
+    ],
+    "coordinates": {
+      "lat": -36.8909793,
+      "lon": 174.7938397
+    }
+  },
+  {
+    "name": "Z Greville Rd",
+    "address": "43 Greville Road, Albany",
+    "hours": "Opening hours",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "Compostable Cups"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-greville-rd/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.43
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.11
+      }
+    ],
+    "coordinates": {
+      "lat": -36.7299784,
+      "lon": 174.7240597
+    }
+  },
+  {
+    "name": "Z Greymouth truck stop",
+    "address": "Whall Street",
+    "hours": "Open 24 hours",
+    "services": ["Bathrooms"],
+    "link": "https://www.z.co.nz/find-a-station/station/z-greymouth-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.67
+      }
+    ],
+    "coordinates": {
+      "lat": 40.7060255,
+      "lon": -74.0088244
+    }
+  },
+  {
+    "name": "Z Grove Rd truck stop",
+    "address": "Corner Grove Road & Budge Street",
+    "hours": "Open 24 hours",
+    "services": ["Bathrooms", "AdBlue Diesel Exhaust Fluid"],
+    "link": "https://www.z.co.nz/find-a-station/station/z-grove-rd-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.48
+      }
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    }
+  },
+  {
+    "name": "Z Harris Rd truck stop",
+    "address": "142 Harris Road",
+    "hours": "Open 24 hours",
+    "services": ["Bathrooms"],
+    "link": "https://www.z.co.nz/find-a-station/station/z-harris-rd-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.56
+      }
+    ],
+    "coordinates": {
+      "lat": -36.9297024,
+      "lon": 174.8967708
+    }
+  },
+  {
+    "name": "Z Hautapu",
+    "address": "167 Victoria Road, Cambridge, New Zealand",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "EV Charging - Ultra-Fast",
+      "EV Charging - Fast &/or Ultra-Fast",
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Pay by plate"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-hautapu/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.42
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.73
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.95
+      }
+    ],
+    "coordinates": {
+      "lat": -37.8670862,
+      "lon": 175.456776
+    }
+  },
+  {
+    "name": "Z Havelock Nth",
+    "address": "Cnr Havelock Road and Porter Drive, Havelock North",
+    "hours": "24/7 pay at pump",
+    "services": ["Pay in app", "LPG SWAP'n'GO", "Super long hoses"],
+    "link": "https://www.z.co.nz/find-a-station/station/z-havelock-nth/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.35
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.25
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.47
+      }
+    ],
+    "coordinates": {
+      "lat": -39.6706314,
+      "lon": 176.8758668
+    }
+  },
+  {
+    "name": "Z Hawera truck stop",
+    "address": "Corner South Road & Princes Street",
+    "hours": "Open 24 hours",
+    "services": ["Bathrooms"],
+    "link": "https://www.z.co.nz/find-a-station/station/z-hawera-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.58
+      }
+    ],
+    "coordinates": {
+      "lat": 55.9517273,
+      "lon": -3.1979668
+    }
+  },
+  {
+    "name": "Z Henderson Valley",
+    "address": "1 Corban Avenue, Henderson, Auckland",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "Compostable Cups",
+      "Fast fill Diesel lane",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-henderson-valley/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.38
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.57
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.33
+      }
+    ],
+    "coordinates": {
+      "lat": -36.8918485,
+      "lon": 174.6229954
+    }
+  },
+  {
+    "name": "Z Heretaunga St",
+    "address": "Cnr Heretaunga Street West and Southland Road",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Compostable Cups",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-heretaunga-st/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.35
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.17
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.15
+      }
+    ],
+    "coordinates": {
+      "lat": -39.6379475,
+      "lon": 176.8390214
+    }
+  },
+  {
+    "name": "Z Hewletts Rd truck stop",
+    "address": "81 Hewletts Road",
+    "hours": "Open 24 hours",
+    "services": ["Bathrooms", "AdBlue Diesel Exhaust Fluid"],
+    "link": "https://www.z.co.nz/find-a-station/station/z-hewletts-rd-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.4
+      }
+    ],
+    "coordinates": {
+      "lat": -37.6662347,
+      "lon": 176.1989896
+    }
+  },
+  {
+    "name": "Z High Street",
+    "address": "834 High Street, Boulcott, Lower Hutt",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "Compostable Cups"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-high-street/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.21
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.25
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.81
+      }
+    ],
+    "coordinates": {
+      "lat": -41.1977809,
+      "lon": 174.9375112
+    }
+  },
+  {
+    "name": "Z Highbrook truck stop",
+    "address": "88 Highbrook Drive",
+    "hours": "Open 24 hours",
+    "services": ["Bathrooms", "AdBlue Diesel Exhaust Fluid"],
+    "link": "https://www.z.co.nz/find-a-station/station/z-highbrook-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.83
+      }
+    ],
+    "coordinates": {
+      "lat": -36.937719,
+      "lon": 174.8726319
+    }
+  },
+  {
+    "name": "Z Hillsborough Rd",
+    "address": "610 Hillsborough Road, Mount Roskill, Auckland",
+    "hours": "Opening hours",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Super long hoses",
+      "Bathrooms",
+      "Compostable Cups"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-hillsborough-rd/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.39
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.26
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.88
+      }
+    ],
+    "coordinates": {
+      "lat": -36.9225386,
+      "lon": 174.7195436
+    }
+  },
+  {
+    "name": "Z Hunters Corner",
+    "address": "72-76 East Tamaki Road, Papatoetoe, South Auckland",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Pay by plate",
+      "Compostable Cups",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-hunters-corner/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.17
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.37
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.7
+      }
+    ],
+    "coordinates": {
+      "lat": -36.966671,
+      "lon": 174.8630247
+    }
+  },
+  {
+    "name": "Z Huntly",
+    "address": "390 Great South Road, Huntly",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-huntly/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.04
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.81
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.18
+      }
+    ],
+    "coordinates": {
+      "lat": -37.5674915,
+      "lon": 175.1584056
+    }
+  },
+  {
+    "name": "Z Hutt Rd",
+    "address": "453 Hutt Road, Lower Hutt",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "Compostable Cups"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-hutt-rd/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.28
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.19
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.96
+      }
+    ],
+    "coordinates": {
+      "lat": -41.2139798,
+      "lon": 174.8879607
+    }
+  },
+  {
+    "name": "Z Inglewood",
+    "address": "47 Rata Street, Inglewood",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Fast fill Diesel lane"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-inglewood/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.8
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.57
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.48
+      }
+    ],
+    "coordinates": {
+      "lat": -39.1559155,
+      "lon": 174.2055157
+    }
+  },
+  {
+    "name": "Z Johnsonville",
+    "address": "136-140 Johnsonville Road, Johnsonville, Wellington",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Pay by plate",
+      "Compostable Cups"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-johnsonville/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.17
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.12
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.39
+      }
+    ],
+    "coordinates": {
+      "lat": -41.2260922,
+      "lon": 174.8067426
+    }
+  },
+  {
+    "name": "Z Kahikatea Drive",
+    "address": "124-126 Kahikatea Drive, Hamilton",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "EV Charging - Ultra-Fast",
+      "EV Charging - Fast &/or Ultra-Fast",
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "Pay by plate",
+      "Compostable Cups"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-kahikatea-drive/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.3
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.37
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.21
+      }
+    ],
+    "coordinates": {
+      "lat": -37.8074234,
+      "lon": 175.2703077
+    }
+  },
+  {
+    "name": "Z Kaikohe",
+    "address": "Broadway, Kaikohe",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-kaikohe/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.33
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.25
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.22
+      }
+    ],
+    "coordinates": {
+      "lat": -35.4071165,
+      "lon": 173.8009991
+    }
+  },
+  {
+    "name": "Z Kaitaia",
+    "address": "141-145 Commerce Street, Kaitaia",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pay in app",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-kaitaia/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.96
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.02
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.26
+      }
+    ],
+    "coordinates": {
+      "lat": -35.112536,
+      "lon": 173.2629849
+    }
+  },
+  {
+    "name": "Z Kamo",
+    "address": "382 Kamo Road, Whangarei",
+    "hours": "Open 24 hours",
+    "services": [
+      "EV Charging - Fast",
+      "EV Charging - Ultra-Fast",
+      "EV Charging - Fast &/or Ultra-Fast",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Pay by plate",
+      "Fast fill Diesel lane"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-kamo/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.8
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.21
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.32
+      }
+    ],
+    "coordinates": {
+      "lat": -35.6842033,
+      "lon": 174.3016013
+    }
+  },
+  {
+    "name": "Z Kapiti",
+    "address": "Cnr Kapiti Road and Milne Drive, Paraparaumu",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-kapiti/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.09
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.13
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.24
+      }
+    ],
+    "coordinates": {
+      "lat": -40.9067759,
+      "lon": 174.9982791
+    }
+  },
+  {
+    "name": "Z Karamu Rd",
+    "address": "927 Karamu Road North",
+    "hours": "24/7 pay at pump",
+    "services": ["Pay in app", "LPG SWAP'n'GO", "Super long hoses"],
+    "link": "https://www.z.co.nz/find-a-station/station/z-karamu-rd/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.82
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.37
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.22
+      }
+    ],
+    "coordinates": {
+      "lat": -39.6365323,
+      "lon": 176.8560875
+    }
+  },
+  {
+    "name": "Z Kawerau",
+    "address": "6 Islington Street, Kawerau",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-kawerau/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.12
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.22
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.4
+      }
+    ],
+    "coordinates": {
+      "lat": -38.0849538,
+      "lon": 176.7019247
+    }
+  },
+  {
+    "name": "Z Kennedy Rd",
+    "address": "Cnr Tennyson Street & Station Street",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "EV Charging - Coming Soon",
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "Pay by plate",
+      "Compostable Cups"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-kennedy-rd/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.48
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.5
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.88
+      }
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    }
+  },
+  {
+    "name": "Z Kensington",
+    "address": "Cnr Kamo Rd and Nixon Street",
+    "hours": "Open 24 hours",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-kensington/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.44
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.33
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.15
+      }
+    ],
+    "coordinates": {
+      "lat": -35.7083483,
+      "lon": 174.3216399
+    }
+  },
+  {
+    "name": "Z Kepa Rd",
+    "address": "154 Kepa Road, Orakei, Auckland",
+    "hours": "Open 24 hours",
+    "services": [
+      "EV Charging - Fast",
+      "EV Charging - Fast &/or Ultra-Fast",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "Compostable Cups"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-kepa-rd/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.26
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.47
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.65
+      }
+    ],
+    "coordinates": {
+      "lat": -36.8613543,
+      "lon": 174.8231295
+    }
+  },
+  {
+    "name": "Z Kilbirnie",
+    "address": "16-22 Coutts Street, Kilbirnie, Wellington",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-kilbirnie/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.6
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.81
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.1
+      }
+    ],
+    "coordinates": {
+      "lat": -41.3201281,
+      "lon": 174.7946946
+    }
+  },
+  {
+    "name": "Z Kingsway",
+    "address": "26 Clevedon Road, Papakura",
+    "hours": "Open 24 hours",
+    "services": [
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Pay by plate",
+      "Compostable Cups",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-kingsway/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.9
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.59
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.8
+      }
+    ],
+    "coordinates": {
+      "lat": -37.0617682,
+      "lon": 174.9483063
+    }
+  },
+  {
+    "name": "Z Kumeu",
+    "address": "134-152 Main Road, State Highway 16",
+    "hours": "Open 24 hours",
+    "services": [
+      "EV Charging - Fast",
+      "EV Charging - Ultra-Fast",
+      "EV Charging - Fast &/or Ultra-Fast",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "Pay by plate",
+      "Compostable Cups"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-kumeu/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.46
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.87
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.42
+      }
+    ],
+    "coordinates": {
+      "lat": 28.0547765,
+      "lon": -98.5960484
+    }
+  },
+  {
+    "name": "Z Lakeside",
+    "address": "Cnr Northcote Road and Taharoto Road",
+    "hours": "Open 24 hours",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Pay by plate",
+      "Compostable Cups"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-lakeside/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.29
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.07
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.85
+      }
+    ],
+    "coordinates": {
+      "lat": -36.78553429999999,
+      "lon": 174.7563096
+    }
+  },
+  {
+    "name": "Z Lakewood Court truck stop",
+    "address": "742 Great South Road",
+    "hours": "24/7 pay at pump",
+    "services": ["Bathrooms"],
+    "link": "https://www.z.co.nz/find-a-station/station/z-lakewood-court-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.24
+      }
+    ],
+    "coordinates": {
+      "lat": -36.9949889,
+      "lon": 174.8860805
+    }
+  },
+  {
+    "name": "Z Levin truck stop",
+    "address": "State Highway 1",
+    "hours": "Open 24 hours",
+    "services": [],
+    "link": "https://www.z.co.nz/find-a-station/station/z-levin-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.4
+      }
+    ],
+    "coordinates": {
+      "lat": -41.3110974,
+      "lon": 173.9793731
+    }
+  },
+  {
+    "name": "Z Lincoln Rd",
+    "address": "198 Lincoln Road, Henderson",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "Pay by plate",
+      "Compostable Cups"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-lincoln-rd/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.24
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.01
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.24
+      }
+    ],
+    "coordinates": {
+      "lat": -36.8588311,
+      "lon": 174.6293001
+    }
+  },
+  {
+    "name": "Z Linwood",
+    "address": "Cnr Linwood Avenue and Cashel Street, Christchurch",
+    "hours": "Open 24 hours",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-linwood/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.21
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.39
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.59
+      }
+    ],
+    "coordinates": {
+      "lat": -43.5328823,
+      "lon": 172.6719458
+    }
+  },
+  {
+    "name": "Z London St",
+    "address": "171 London St & Cnr Glasgow St",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "Fast fill Diesel lane"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-london-st/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.82
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.95
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.37
+      }
+    ],
+    "coordinates": {
+      "lat": -39.9272614,
+      "lon": 175.0344129
+    }
+  },
+  {
+    "name": "Z Mairangi Bay",
+    "address": "413-417 Beach Road, Mairangi Bay",
+    "hours": "Opening hours",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-mairangi-bay/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.75
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.08
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.44
+      }
+    ],
+    "coordinates": {
+      "lat": -36.7389883,
+      "lon": 174.7537318
+    }
+  },
+  {
+    "name": "Z Mana",
+    "address": "143 Mana Esplanade, Mana, Wellington",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Pay by plate",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-mana/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.14
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.71
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.49
+      }
+    ],
+    "coordinates": {
+      "lat": -41.0912529,
+      "lon": 174.867442
+    }
+  },
+  {
+    "name": "Z Manly",
+    "address": "934 Whangaparaoa Road, Whangaparaoa",
+    "hours": "Opening hours",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "Compostable Cups"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-manly/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.32
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.44
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.4
+      }
+    ],
+    "coordinates": {
+      "lat": -36.6319445,
+      "lon": 174.7635499
+    }
+  },
+  {
+    "name": "Z Manurewa",
+    "address": "1 Alfriston Road, Manurewa, South Auckland",
+    "hours": "Open 24 hours",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Compostable Cups",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-manurewa/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.07
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.18
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.36
+      }
+    ],
+    "coordinates": {
+      "lat": -37.0235992,
+      "lon": 174.8996576
+    }
+  },
+  {
+    "name": "Z Marton",
+    "address": "166 Broadway, Marton",
+    "hours": "Opening hours",
+    "services": [
+      "Pay in app",
+      "LPG SWAP'n'GO",
+      "Super long hoses",
+      "Fast fill Diesel lane"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-marton/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.52
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.98
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.39
+      }
+    ],
+    "coordinates": {
+      "lat": -40.0652893,
+      "lon": 175.3789531
+    }
+  },
+  {
+    "name": "Z Masterton truck stop",
+    "address": "State Highway 2",
+    "hours": "Open 24 hours",
+    "services": ["AdBlue Diesel Exhaust Fluid"],
+    "link": "https://www.z.co.nz/find-a-station/station/z-masterton-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.05
+      }
+    ],
+    "coordinates": {
+      "lat": -39.2659011,
+      "lon": 176.8748033
+    }
+  },
+  {
+    "name": "Z Matamata",
+    "address": "Cnr Waharoa Road and Peria Road, Matamata",
+    "hours": "Open 24 hours",
+    "services": [
+      "EV Charging - Fast",
+      "EV Charging - Ultra-Fast",
+      "EV Charging - Fast &/or Ultra-Fast",
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Pay by plate"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-matamata/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.2
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.81
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.11
+      }
+    ],
+    "coordinates": {
+      "lat": -37.7982269,
+      "lon": 175.7433927
+    }
+  },
+  {
+    "name": "Z Merrilands",
+    "address": "202 Mangorei Road, New Plymouth",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-merrilands/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.53
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.94
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.37
+      }
+    ],
+    "coordinates": {
+      "lat": -39.066933,
+      "lon": 174.1027253
+    }
+  },
+  {
+    "name": "Z Milford",
+    "address": "151 East Coast Road, Milford, Auckland",
+    "hours": "Opening hours",
+    "services": [
+      "Pay in app",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Super long hoses"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-milford/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.4
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.55
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.81
+      }
+    ],
+    "coordinates": {
+      "lat": -36.76380210000001,
+      "lon": 174.7564628
+    }
+  },
+  {
+    "name": "Z Miramar",
+    "address": "27 Miramar Avenue, Miramar, Wellington",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "EV Charging - Fast",
+      "EV Charging - Ultra-Fast",
+      "EV Charging - Fast &/or Ultra-Fast",
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Pay by plate",
+      "Compostable Cups"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-miramar/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.3
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.08
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.46
+      }
+    ],
+    "coordinates": {
+      "lat": -41.3149639,
+      "lon": 174.8139606
+    }
+  },
+  {
+    "name": "Z Moorhouse",
+    "address": "40 Moorhouse Avenue, Christchurch",
+    "hours": "Open 24 hours",
+    "services": [
+      "EV Charging - Fast",
+      "EV Charging - Fast &/or Ultra-Fast",
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "Pay by plate",
+      "Fast fill Diesel lane"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-moorhouse/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.91
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.26
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.61
+      }
+    ],
+    "coordinates": {
+      "lat": -43.5404647,
+      "lon": 172.6221869
+    }
+  },
+  {
+    "name": "Z Morrinsville",
+    "address": "202-210 Thames Street, Morrinsville",
+    "hours": "Open 24 hours",
+    "services": [
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-morrinsville/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.86
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.73
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.46
+      }
+    ],
+    "coordinates": {
+      "lat": -37.65877100000001,
+      "lon": 175.5269598
+    }
+  },
+  {
+    "name": "Z Mosgiel",
+    "address": "Cnr Gladstone Road and Quarry Road, Mosgiel",
+    "hours": "Open 24 hours",
+    "services": [
+      "EV Charging - Coming Soon",
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Pay by plate"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-mosgiel/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.09
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.88
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.09
+      }
+    ],
+    "coordinates": {
+      "lat": -45.8857603,
+      "lon": 170.3544987
+    }
+  },
+  {
+    "name": "Z Mt Albert",
+    "address": "770-774 New North Road, Mount Albert, Auckland",
+    "hours": "Open 24 hours",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "Compostable Cups"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-mt-albert/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.85
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.38
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.51
+      }
+    ],
+    "coordinates": {
+      "lat": -36.8805414,
+      "lon": 174.7250283
+    }
+  },
+  {
+    "name": "Z Mungavin Ave",
+    "address": "1-5 Mungavin Avenue, Porirua East, Wellington",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-mungavin-ave/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.06
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.22
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.78
+      }
+    ],
+    "coordinates": {
+      "lat": -41.1378805,
+      "lon": 174.8457497
+    }
+  },
+  {
+    "name": "Z New Lynn",
+    "address": "62 Rata Street",
+    "hours": "Open 24 hours",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "Compostable Cups"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-new-lynn/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.61
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.23
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.42
+      }
+    ],
+    "coordinates": {
+      "lat": -36.9027609,
+      "lon": 174.6813305
+    }
+  },
+  {
+    "name": "Z Ngaruawahia",
+    "address": "106 Great South Road, Ngaruawahia",
+    "hours": "Opening hours",
+    "services": [
+      "Pay in app",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Super long hoses"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-ngaruawahia/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.22
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.75
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.34
+      }
+    ],
+    "coordinates": {
+      "lat": -37.6684763,
+      "lon": 175.1497638
+    }
+  },
+  {
+    "name": "Z Ngatea truck stop",
+    "address": "77 Orchard Road",
+    "hours": "Open 24 hours",
+    "services": ["Bathrooms"],
+    "link": "https://www.z.co.nz/find-a-station/station/z-ngatea-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.63
+      }
+    ],
+    "coordinates": {
+      "lat": 1.3008147,
+      "lon": 103.839376
+    }
+  },
+  {
+    "name": "Z Northcote",
+    "address": "119 Onewa Road",
+    "hours": "Open 24 hours",
+    "services": [
+      "EV Charging - Coming Soon",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Compostable Cups"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-northcote/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.84
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.15
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.31
+      }
+    ],
+    "coordinates": {
+      "lat": -36.8102855,
+      "lon": 174.7380201
+    }
+  },
+  {
+    "name": "Z Northcross",
+    "address": "847-849 East Coast Road",
+    "hours": "Open 24 hours",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Compostable Cups",
+      "Fast fill Diesel lane",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-northcross/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.64
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.13
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.84
+      }
+    ],
+    "coordinates": {
+      "lat": -36.7101656,
+      "lon": 174.7282385
+    }
+  },
+  {
+    "name": "Z Oamaru truck stop",
+    "address": "Pukeuri-Oamaru Road",
+    "hours": "Open 24 hours",
+    "services": ["AdBlue Diesel Exhaust Fluid"],
+    "link": "https://www.z.co.nz/find-a-station/station/z-oamaru-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.09
+      }
+    ],
+    "coordinates": {
+      "lat": -45.0502585,
+      "lon": 171.0104229
+    }
+  },
+  {
+    "name": "Z Ormiston Rd",
+    "address": "8 Ormiston Road, Flat Bush, South Auckland",
+    "hours": "Open 24 hours",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "Compostable Cups"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-ormiston-rd/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.57
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.88
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.35
+      }
+    ],
+    "coordinates": {
+      "lat": -36.9605776,
+      "lon": 174.8911266
+    }
+  },
+  {
+    "name": "Z Otahuhu",
+    "address": "19 Princes Street, Otahuhu, Auckland",
+    "hours": "Open 24 hours",
+    "services": [
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Compostable Cups"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-otahuhu/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.09
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.73
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.15
+      }
+    ],
+    "coordinates": {
+      "lat": -36.9410119,
+      "lon": 174.8431528
+    }
+  },
+  {
+    "name": "Z Pakuranga",
+    "address": "470 Pakuranga Highway, Pakuranga, Auckland",
+    "hours": "Open 24 hours",
+    "services": [
+      "EV Charging - Fast",
+      "EV Charging - Fast &/or Ultra-Fast",
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Pay by plate",
+      "Compostable Cups",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-pakuranga/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.36
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.96
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.33
+      }
+    ],
+    "coordinates": {
+      "lat": -36.9001336,
+      "lon": 174.8994517
+    }
+  },
+  {
+    "name": "Z Palm Beach",
+    "address": "16 Domain Road",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "EV Charging - Fast",
+      "EV Charging - Ultra-Fast",
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Pay by plate"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-palm-beach/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.58
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.13
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.48
+      }
+    ],
+    "coordinates": {
+      "lat": -37.83309819999999,
+      "lon": 144.9745473
+    }
+  },
+  {
+    "name": "Z Palmerston",
+    "address": "112 Ronaldsay Street",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pay in app",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Fast fill Diesel lane"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-palmerston/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.47
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.85
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.36
+      }
+    ],
+    "coordinates": {
+      "lat": 55.894848,
+      "lon": -4.2441851
+    }
+  },
+  {
+    "name": "Z Panmure",
+    "address": "434 Ellerslie Panmure Highway, Mount Wellington, Auckland",
+    "hours": "Open 24 hours",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Compostable Cups"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-panmure/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.36
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.17
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.33
+      }
+    ],
+    "coordinates": {
+      "lat": -36.8961807,
+      "lon": 174.8407632
+    }
+  },
+  {
+    "name": "Z Papakura North",
+    "address": "254 Great South Road, Takanini, Auckland",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "Compostable Cups"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-papakura-north/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.35
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.25
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.06
+      }
+    ],
+    "coordinates": {
+      "lat": -37.0506767,
+      "lon": 174.9297407
+    }
+  },
+  {
+    "name": "Z Petone truck stop",
+    "address": "Corner Jackson Street & Hutt Road",
+    "hours": "Open 24 hours",
+    "services": ["Bathrooms"],
+    "link": "https://www.z.co.nz/find-a-station/station/z-petone-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.24
+      }
+    ],
+    "coordinates": {
+      "lat": -41.2224498,
+      "lon": 174.8693088
+    }
+  },
+  {
+    "name": "Z Picton",
+    "address": "101 High Street, Picton",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "EV Charging - Ultra-Fast",
+      "EV Charging - Fast &/or Ultra-Fast",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-picton/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.29
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.47
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.15
+      }
+    ],
+    "coordinates": {
+      "lat": -41.2919701,
+      "lon": 174.006414
+    }
+  },
+  {
+    "name": "Z Pioneer Hwy",
+    "address": "676 Pioneer Highway",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-pioneer-hwy/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.74
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.69
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.27
+      }
+    ],
+    "coordinates": {
+      "lat": -40.3644622,
+      "lon": 175.5933675
+    }
+  },
+  {
+    "name": "Z Point Chev",
+    "address": "1125-1143 Great North Road",
+    "hours": "Open 24 hours",
+    "services": [
+      "EV Charging - Fast",
+      "EV Charging - Ultra-Fast",
+      "EV Charging - Fast &/or Ultra-Fast",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Compostable Cups",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-point-chev/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.87
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.42
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.64
+      }
+    ],
+    "coordinates": {
+      "lat": -36.8690414,
+      "lon": 174.7129005
+    }
+  },
+  {
+    "name": "Z Ponsonby",
+    "address": "5-9 Williamson Avenue",
+    "hours": "Open 24 hours",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "Compostable Cups"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-ponsonby/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.2
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.71
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.02
+      }
+    ],
+    "coordinates": {
+      "lat": -36.8586241,
+      "lon": 174.7474271
+    }
+  },
+  {
+    "name": "Z Porowini",
+    "address": "47 Porowini Avenue, Whangarei",
+    "hours": "Opening hours",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-porowini/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.57
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.19
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.99
+      }
+    ],
+    "coordinates": {
+      "lat": -35.7319318,
+      "lon": 174.322041
+    }
+  },
+  {
+    "name": "Z Pukekohe",
+    "address": "11 Stadium Drive",
+    "hours": "Open 24 hours",
+    "services": [
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Pay by plate",
+      "Compostable Cups"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-pukekohe/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.28
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.43
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.69
+      }
+    ],
+    "coordinates": {
+      "lat": 1.306433,
+      "lon": 103.8745469
+    }
+  },
+  {
+    "name": "Z Pukete",
+    "address": "Cnr Pukete and Te Rapa Roads, Te Rapa, Hamilton",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Pay by plate",
+      "Compostable Cups",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-pukete/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.58
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.08
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.96
+      }
+    ],
+    "coordinates": {
+      "lat": -37.751966,
+      "lon": 175.2402094
+    }
+  },
+  {
+    "name": "Z Putaruru",
+    "address": "68-70 Tirau Street, Putaruru",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "EV Charging - Fast",
+      "EV Charging - Ultra-Fast",
+      "EV Charging - Fast &/or Ultra-Fast",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-putaruru/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.1
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.5
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.2
+      }
+    ],
+    "coordinates": {
+      "lat": -38.0477556,
+      "lon": 175.7803629
+    }
+  },
+  {
+    "name": "Z Quay St",
+    "address": "27 Quay Street, Auckland",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Compostable Cups"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-quay-st/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.02
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.56
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.71
+      }
+    ],
+    "coordinates": {
+      "lat": -36.8446737,
+      "lon": 174.773516
+    }
+  },
+  {
+    "name": "Z Queenstown",
+    "address": "846 Frankton Road, Queenstown",
+    "hours": "Open 24 hours",
+    "services": [
+      "EV Charging - Coming Soon",
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Pay by plate"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-queenstown/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.44
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.51
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.26
+      }
+    ],
+    "coordinates": {
+      "lat": -45.0172266,
+      "lon": 168.7160994
+    }
+  },
+  {
+    "name": "Z Redwood",
+    "address": "225 Scott Street, Blenheim",
+    "hours": "Opening hours",
+    "services": [
+      "Pay in app",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-redwood/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.76
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.38
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.09
+      }
+    ],
+    "coordinates": {
+      "lat": -41.5297926,
+      "lon": 173.9582746
+    }
+  },
+  {
+    "name": "Z Roscommon Rd truck stop",
+    "address": "147 Roscommon Road",
+    "hours": "Open 24 hours",
+    "services": ["Bathrooms", "AdBlue Diesel Exhaust Fluid"],
+    "link": "https://www.z.co.nz/find-a-station/station/z-roscommon-rd-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.78
+      }
+    ],
+    "coordinates": {
+      "lat": -37.0037389,
+      "lon": 174.8534937
+    }
+  },
+  {
+    "name": "Z Rotokauri",
+    "address": "Cnr Wairere Drive & Arthur Porter Drive",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "EV Charging - Ultra-Fast",
+      "EV Charging - Fast &/or Ultra-Fast",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Compostable Cups",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-rotokauri/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.31
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.92
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.91
+      }
+    ],
+    "coordinates": {
+      "lat": -37.7550754,
+      "lon": 175.2295106
+    }
+  },
+  {
+    "name": "Z Royal Oak",
+    "address": "700 Mount Albert Road, Royal Oak, Auckland",
+    "hours": "Open 24 hours",
+    "services": [
+      "EV Charging - Fast &/or Ultra-Fast",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Pay by plate",
+      "Compostable Cups"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-royal-oak/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.78
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.65
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.41
+      }
+    ],
+    "coordinates": {
+      "lat": -36.9111779,
+      "lon": 174.7736169
+    }
+  },
+  {
+    "name": "Z Rutherford",
+    "address": "106 Rutherford Street, Nelson",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Pay by plate"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-rutherford/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.42
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.18
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.83
+      }
+    ],
+    "coordinates": {
+      "lat": -41.27437949999999,
+      "lon": 173.2806149
+    }
+  },
+  {
+    "name": "Z Sanson truck stop",
+    "address": "State Highway 1",
+    "hours": "Open 24 hours",
+    "services": ["Bathrooms", "AdBlue Diesel Exhaust Fluid"],
+    "link": "https://www.z.co.nz/find-a-station/station/z-sanson-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.03
+      }
+    ],
+    "coordinates": {
+      "lat": -41.3110974,
+      "lon": 173.9793731
+    }
+  },
+  {
+    "name": "Z Sawyers Arms",
+    "address": "530 Sawyers Arms Road",
+    "hours": "Open 24 hours",
+    "services": [
+      "EV Charging - Fast",
+      "EV Charging - Ultra-Fast",
+      "EV Charging - Fast &/or Ultra-Fast",
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Pay by plate",
+      "Compostable Cups",
+      "Fast fill Diesel lane",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-sawyers-arms/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.65
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.59
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.1
+      }
+    ],
+    "coordinates": {
+      "lat": -43.4706092,
+      "lon": 172.5706598
+    }
+  },
+  {
+    "name": "Z Seaview truck stop",
+    "address": "58 Seaview Road",
+    "hours": "Open 24 hours",
+    "services": ["AdBlue Diesel Exhaust Fluid"],
+    "link": "https://www.z.co.nz/find-a-station/station/z-seaview-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.1
+      }
+    ],
+    "coordinates": {
+      "lat": -36.8664885,
+      "lon": 174.7862793
+    }
+  },
+  {
+    "name": "Z Shirley",
+    "address": "7 Marshland Road, Shirley, Christchurch",
+    "hours": "Open 24 hours",
+    "services": [
+      "EV Charging - Coming Soon",
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-shirley/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.63
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.28
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.32
+      }
+    ],
+    "coordinates": {
+      "lat": -43.5073801,
+      "lon": 172.662398
+    }
+  },
+  {
+    "name": "Z Silverdale",
+    "address": "5 Hibiscus Coast Highway",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Pay by plate"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-silverdale/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.36
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.34
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.38
+      }
+    ],
+    "coordinates": {
+      "lat": -36.6233844,
+      "lon": 174.6682015
+    }
+  },
+  {
+    "name": "Z Springlands",
+    "address": "165 Middle Renwick Road, Blenheim",
+    "hours": "Opening hours",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "Pay by plate",
+      "Fast fill Diesel lane"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-springlands/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.24
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.55
+      }
+    ],
+    "coordinates": {
+      "lat": -41.5101885,
+      "lon": 173.9301363
+    }
+  },
+  {
+    "name": "Z Stadium",
+    "address": "26 Mill Street, Hamilton",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Compostable Cups"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-stadium/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.07
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.17
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.26
+      }
+    ],
+    "coordinates": {
+      "lat": -37.7805144,
+      "lon": 175.2713973
+    }
+  },
+  {
+    "name": "Z Stoke",
+    "address": "666 Main Road, Stoke, Nelson",
+    "hours": "Opening hours",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-stoke/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.3
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.12
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.34
+      }
+    ],
+    "coordinates": {
+      "lat": -41.3190052,
+      "lon": 173.2250369
+    }
+  },
+  {
+    "name": "Z Stratford",
+    "address": "Cnr Broadway and Regan Street, Stratford",
+    "hours": "Open 24 hours",
+    "services": [
+      "EV Charging - Ultra-Fast",
+      "EV Charging - Fast &/or Ultra-Fast",
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Pay by plate",
+      "Fast fill Diesel lane"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-stratford/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.57
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.49
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.36
+      }
+    ],
+    "coordinates": {
+      "lat": -39.337856,
+      "lon": 174.2842407
+    }
+  },
+  {
+    "name": "Z Sunnybrae",
+    "address": "37 Northcote Road, Takapuna",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-sunnybrae/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.07
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.86
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.11
+      }
+    ],
+    "coordinates": {
+      "lat": -36.79234539999999,
+      "lon": 174.747245
+    }
+  },
+  {
+    "name": "Z Sylvia Park truck stop",
+    "address": "Sylvia Park Road",
+    "hours": "Open 24 hours",
+    "services": ["AdBlue Diesel Exhaust Fluid"],
+    "link": "https://www.z.co.nz/find-a-station/station/z-sylvia-park-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.25
+      }
+    ],
+    "coordinates": {
+      "lat": -36.9232729,
+      "lon": 174.8369948
+    }
+  },
+  {
+    "name": "Z Taipa",
+    "address": "570 State Highway 10, Taipa",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "EV Charging - Coming Soon",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-taipa/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.66
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.23
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.33
+      }
+    ],
+    "coordinates": {
+      "lat": -34.9961217,
+      "lon": 173.465826
+    }
+  },
+  {
+    "name": "Z Takanini",
+    "address": "166 Great South Road, Papakura",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "Pay at pump",
+      "Super long hoses",
+      "A-Z Screen",
+      "Pay by plate",
+      "Compostable Cups",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-takanini/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.96
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.74
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.46
+      }
+    ],
+    "coordinates": {
+      "lat": -37.06278,
+      "lon": 174.9425
+    }
+  },
+  {
+    "name": "Z Tamatea",
+    "address": "6 Durham Avenue, Tamatea",
+    "hours": "Opening hours",
+    "services": ["Pay in app", "LPG SWAP'n'GO", "Super long hoses"],
+    "link": "https://www.z.co.nz/find-a-station/station/z-tamatea/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.51
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.83
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.47
+      }
+    ],
+    "coordinates": {
+      "lat": -39.5094667,
+      "lon": 176.8685313
+    }
+  },
+  {
+    "name": "Z Taradale",
+    "address": "21 Lee Road",
+    "hours": "Opening hours",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "Compostable Cups"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-taradale/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.68
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.23
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.98
+      }
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    }
+  },
+  {
+    "name": "Z Taranaki St",
+    "address": "155 Taranaki Street, Wellington",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "EV Charging - Ultra-Fast",
+      "EV Charging - Fast &/or Ultra-Fast",
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Compostable Cups",
+      "Fast fill Diesel lane"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-taranaki-st/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.66
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.65
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.06
+      }
+    ],
+    "coordinates": {
+      "lat": -41.2969349,
+      "lon": 174.7765347
+    }
+  },
+  {
+    "name": "Z Tauhara",
+    "address": "200 Napier-Taupo Rd, Hilltop, Taupo",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "EV Charging - Coming Soon",
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Pay by plate"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-tauhara/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.38
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.12
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.64
+      }
+    ],
+    "coordinates": {
+      "lat": -38.7041242,
+      "lon": 176.1093464
+    }
+  },
+  {
+    "name": "Z Taupō",
+    "address": "Cnr Titiraupenga Street and Tuwharetoa Street, Taupō",
+    "hours": "Opening hours",
+    "services": [
+      "Pay in app",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-taupo/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.09
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.81
+      }
+    ],
+    "coordinates": {
+      "lat": -38.6896452,
+      "lon": 176.0741677
+    }
+  },
+  {
+    "name": "Z Tawa",
+    "address": "16-18 Main Road, Tawa, Wellington",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-tawa/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.42
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.3
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.45
+      }
+    ],
+    "coordinates": {
+      "lat": -41.1840921,
+      "lon": 174.8257005
+    }
+  },
+  {
+    "name": "Z Te Atatu",
+    "address": "402 Te Atatu North Road, Te Atatu North, West Auckland",
+    "hours": "Open 24 hours",
+    "services": [
+      "EV Charging - Fast &/or Ultra-Fast",
+      "EV Charging - Coming Soon",
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Pay by plate",
+      "Compostable Cups",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-te-atatu/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.42
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.57
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.22
+      }
+    ],
+    "coordinates": {
+      "lat": -36.85088270000001,
+      "lon": 174.7644881
+    }
+  },
+  {
+    "name": "Z Te Awamutu",
+    "address": "601 Sloane Street, Te Awamutu",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-te-awamutu/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.39
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.42
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.22
+      }
+    ],
+    "coordinates": {
+      "lat": -38.0148729,
+      "lon": 175.3247011
+    }
+  },
+  {
+    "name": "Z Te Irirangi Dr",
+    "address": "136 Dawson Road, Otara, South Auckland",
+    "hours": "Open 24 hours",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "Pay by plate",
+      "Compostable Cups",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-te-irirangi-dr/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.18
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.42
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2
+      }
+    ],
+    "coordinates": {
+      "lat": -36.9773943,
+      "lon": 174.8975416
+    }
+  },
+  {
+    "name": "Z Te Kuiti truck stop",
+    "address": "Te Kumi Road",
+    "hours": "Open 24 hours",
+    "services": ["Bathrooms", "AdBlue Diesel Exhaust Fluid"],
+    "link": "https://www.z.co.nz/find-a-station/station/z-te-kuiti-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.5
+      }
+    ],
+    "coordinates": {
+      "lat": -38.3274215,
+      "lon": 175.1549115
+    }
+  },
+  {
+    "name": "Z Te Puke",
+    "address": "Cnr Jellicoe Street and King Street, Te Puke",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-te-puke/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.83
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.35
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.85
+      }
+    ],
+    "coordinates": {
+      "lat": -37.7855164,
+      "lon": 176.3308138
+    }
+  },
+  {
+    "name": "Z Templeton truck stop",
+    "address": "720 Main South Road",
+    "hours": "Open 24 hours",
+    "services": ["Bathrooms", "AdBlue Diesel Exhaust Fluid"],
+    "link": "https://www.z.co.nz/find-a-station/station/z-templeton-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.48
+      }
+    ],
+    "coordinates": {
+      "lat": -43.549495,
+      "lon": 172.4883507
+    }
+  },
+  {
+    "name": "Z Terrace End",
+    "address": "768 Main Street",
+    "hours": "Open 24 hours",
+    "services": [
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Pay by plate"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-terrace-end/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.92
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.26
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.13
+      }
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    }
+  },
+  {
+    "name": "Z Ti Rakau Dr",
+    "address": "284 Ti Rakau Drive, East Tamaki, South Auckland",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "Compostable Cups"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-ti-rakau-dr/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.7
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.31
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.69
+      }
+    ],
+    "coordinates": {
+      "lat": -36.9262486,
+      "lon": 174.895193
+    }
+  },
+  {
+    "name": "Z Tom Pearce Dr",
+    "address": "Tom Pearce Drive, Auckland International Airport",
+    "hours": "Open 24 hours",
+    "services": [
+      "EV Charging - Fast",
+      "EV Charging - Ultra-Fast",
+      "EV Charging - Fast &/or Ultra-Fast",
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "Compostable Cups",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-tom-pearce-dr/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.09
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.58
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.33
+      }
+    ],
+    "coordinates": {
+      "lat": -37.0089374,
+      "lon": 174.7863813
+    }
+  },
+  {
+    "name": "Z Trentham",
+    "address": "430 Fergusson Drive, Trentham, Upper Hutt",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-trentham/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.54
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.07
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.48
+      }
+    ],
+    "coordinates": {
+      "lat": -41.1371702,
+      "lon": 175.0325219
+    }
+  },
+  {
+    "name": "Z Triangle",
+    "address": "574 Great South Road, Ellerslie, Auckland",
+    "hours": "Open 24 hours",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-triangle/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.01
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.5
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.07
+      }
+    ],
+    "coordinates": {
+      "lat": -36.8949526,
+      "lon": 174.8001588
+    }
+  },
+  {
+    "name": "Z Turangi truck stop",
+    "address": "Atirau Road",
+    "hours": "24/7 pay at pump",
+    "services": ["AdBlue Diesel Exhaust Fluid"],
+    "link": "https://www.z.co.nz/find-a-station/station/z-turangi-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.33
+      }
+    ],
+    "coordinates": {
+      "lat": -38.9968471,
+      "lon": 175.8027671
+    }
+  },
+  {
+    "name": "Z Valley",
+    "address": "248 Kaikorai Valley Road, Kaikorai, Dunedin",
+    "hours": "Opening hours",
+    "services": [
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Pay by plate"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-valley/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.33
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.08
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.99
+      }
+    ],
+    "coordinates": {
+      "lat": -45.8725583,
+      "lon": 170.4721208
+    }
+  },
+  {
+    "name": "Z VIC Corner",
+    "address": "545-555 High Street, Lower Hutt",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "EV Charging - Ultra-Fast",
+      "EV Charging - Fast &/or Ultra-Fast",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Pay by plate",
+      "Compostable Cups"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-vic-corner/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.17
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.17
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.04
+      }
+    ],
+    "coordinates": {
+      "lat": -41.2038439,
+      "lon": 174.9135245
+    }
+  },
+  {
+    "name": "Z Vivian St",
+    "address": "174 Vivian St, Wellington",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "EV Charging - Fast",
+      "EV Charging - Fast &/or Ultra-Fast",
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Pay by plate",
+      "Compostable Cups"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-vivian-st/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.27
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.04
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.31
+      }
+    ],
+    "coordinates": {
+      "lat": -41.2943672,
+      "lon": 174.7744804
+    }
+  },
+  {
+    "name": "Z Waikaraka",
+    "address": "167-171 Neilson Street, Onehunga, Auckland",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "Compostable Cups"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-waikaraka/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.18
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.1
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.13
+      }
+    ],
+    "coordinates": {
+      "lat": -36.9264647,
+      "lon": 174.7947141
+    }
+  },
+  {
+    "name": "Z Waikuku",
+    "address": "1413 Main North Road, Waikuku",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Compostable Cups"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-waikuku/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.44
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.98
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.51
+      }
+    ],
+    "coordinates": {
+      "lat": -43.2951372,
+      "lon": 172.6840531
+    }
+  },
+  {
+    "name": "Z Waikumete",
+    "address": "4155 Great North Road, Glen Eden, Auckland",
+    "hours": "Open 24 hours",
+    "services": [
+      "EV Charging - Ultra-Fast",
+      "EV Charging - Fast &/or Ultra-Fast",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "Compostable Cups",
+      "Fast fill Diesel lane"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-waikumete/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.64
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.39
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.1
+      }
+    ],
+    "coordinates": {
+      "lat": -36.9001628,
+      "lon": 174.6531846
+    }
+  },
+  {
+    "name": "Z Waiouru truck stop",
+    "address": "State Highway 1",
+    "hours": "Open 24 hours",
+    "services": ["Bathrooms"],
+    "link": "https://www.z.co.nz/find-a-station/station/z-waiouru-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.26
+      }
+    ],
+    "coordinates": {
+      "lat": -41.3110974,
+      "lon": 173.9793731
+    }
+  },
+  {
+    "name": "Z Wairoa truck stop",
+    "address": "Achilles Street",
+    "hours": "Open 24 hours",
+    "services": ["Bathrooms"],
+    "link": "https://www.z.co.nz/find-a-station/station/z-wairoa-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.16
+      }
+    ],
+    "coordinates": {
+      "lat": 51.4765079,
+      "lon": -0.0358025
+    }
+  },
+  {
+    "name": "Z Waiuku",
+    "address": "16 Kitchener Road",
+    "hours": "Open 24 hours",
+    "services": [
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Pay by plate",
+      "Compostable Cups",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-waiuku/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.43
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.04
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.46
+      }
+    ],
+    "coordinates": {
+      "lat": 1.3114867,
+      "lon": 103.8571106
+    }
+  },
+  {
+    "name": "Z Waiwhakaiho truck stop",
+    "address": "Corner Devon Road & Smart Road",
+    "hours": "Open 24 hours",
+    "services": ["Bathrooms", "AdBlue Diesel Exhaust Fluid"],
+    "link": "https://www.z.co.nz/find-a-station/station/z-waiwhakaiho-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.18
+      }
+    ],
+    "coordinates": {
+      "lat": -39.0503993,
+      "lon": 174.1109983
+    }
+  },
+  {
+    "name": "Z Warkworth",
+    "address": "1 Hudson Road, Warkworth",
+    "hours": "Open 24 hours",
+    "services": [
+      "EV Charging - Fast",
+      "EV Charging - Fast &/or Ultra-Fast",
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Pay by plate"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-warkworth/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.38
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.13
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.23
+      }
+    ],
+    "coordinates": {
+      "lat": -36.3924702,
+      "lon": 174.6512463
+    }
+  },
+  {
+    "name": "Z Whakatane",
+    "address": "Cnr Domain Road and King Street, Whakatane",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-whakatane/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.85
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.35
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.15
+      }
+    ],
+    "coordinates": {
+      "lat": -37.9676093,
+      "lon": 176.9821319
+    }
+  },
+  {
+    "name": "Z Whangaparaoa",
+    "address": "651 Whangaparaoa Road, Whangaparaoa",
+    "hours": "Open 24 hours",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Compostable Cups",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-whangaparaoa/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.58
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.2
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.38
+      }
+    ],
+    "coordinates": {
+      "lat": -36.6348998,
+      "lon": 174.7395956
+    }
+  },
+  {
+    "name": "Z Whitianga",
+    "address": "83-85 Albert Street, Whitianga",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "Fast fill Diesel lane"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-whitianga/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.79
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.05
+      }
+    ],
+    "coordinates": {
+      "lat": -36.8362044,
+      "lon": 175.703953
+    }
+  },
+  {
+    "name": "Z Windsor",
+    "address": "701 Heretaunga St East",
+    "hours": "Opening hours",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "Compostable Cups"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-windsor/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.11
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.34
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.25
+      }
+    ],
+    "coordinates": {
+      "lat": -39.6478692,
+      "lon": 176.8492252
+    }
+  },
+  {
+    "name": "Z Wiri Station Rd",
+    "address": "83 Wiri Station Road, Manukau City",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "EV Charging - Ultra-Fast",
+      "EV Charging - Fast &/or Ultra-Fast",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "Compostable Cups"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-wiri-station-rd/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.41
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.16
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.38
+      }
+    ],
+    "coordinates": {
+      "lat": -36.99956,
+      "lon": 174.8712108
+    }
+  },
+  {
+    "name": "Z Woolston",
+    "address": "417 Ferry Road, Christchurch",
+    "hours": "Open 24 hours",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-woolston/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.09
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.55
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.71
+      }
+    ],
+    "coordinates": {
+      "lat": -43.5433628,
+      "lon": 172.6677412
+    }
+  },
+  {
+    "name": "Z Karaka",
+    "address": "47 Harbourside Drive, Karaka, Auckland 2113",
+    "hours": "Open 24 hours",
+    "services": [
+      "EV Charging - Coming Soon",
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Pay by plate",
+      "Compostable Cups"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-karaka/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.22
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.36
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.61
+      }
+    ],
+    "coordinates": {
+      "lat": -37.0736114,
+      "lon": 174.9256384
+    }
+  },
+  {
+    "name": "Z Silverdale truck stop",
+    "address": "100 Foundry Road",
+    "hours": "Open 24 hours",
+    "services": [],
+    "link": "https://www.z.co.nz/find-a-station/station/z-silverdale-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.19
+      }
+    ],
+    "coordinates": {
+      "lat": -36.6226426,
+      "lon": 174.6824519
+    }
+  },
+  {
+    "name": "Z Amberley",
+    "address": "47 Carters Road",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Fast fill Diesel lane"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-amberley/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.13
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.68
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.81
+      }
+    ],
+    "coordinates": {
+      "lat": -33.6822192,
+      "lon": 151.047799
+    }
+  },
+  {
+    "name": "Z Ashburton",
+    "address": "141 West Street",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "EV Charging - Fast",
+      "EV Charging - Fast &/or Ultra-Fast",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Pay by plate"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-ashburton/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.55
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.27
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.05
+      }
+    ],
+    "coordinates": {
+      "lat": 38.9774636,
+      "lon": -76.4985085
+    }
+  },
+  {
+    "name": "Z Awakeri",
+    "address": "RD2, Whakatane",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pay in app",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-awakeri/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.17
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.38
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.47
+      }
+    ],
+    "coordinates": {
+      "lat": -37.95853109999999,
+      "lon": 176.9822259
+    }
+  },
+  {
+    "name": "Z Balclutha",
+    "address": "High Street",
+    "hours": "Opening hours",
+    "services": [
+      "Pay in app",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-balclutha/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.06
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.64
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.03
+      }
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    }
+  },
+  {
+    "name": "Z Beach Rd",
+    "address": "150 Beach Road",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "EV Charging - Fast",
+      "EV Charging - Fast &/or Ultra-Fast",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Pay by plate",
+      "Compostable Cups",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-beach-rd/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.94
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.08
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.65
+      }
+    ],
+    "coordinates": {
+      "lat": 1.2984041,
+      "lon": 103.8589041
+    }
+  },
+  {
+    "name": "Z Constellation Dr",
+    "address": "36 Constellation Drive",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "EV Charging - Ultra-Fast",
+      "EV Charging - Fast &/or Ultra-Fast",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "Compostable Cups"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-constellation-dr/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.01
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.89
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.5
+      }
+    ],
+    "coordinates": {
+      "lat": -36.7481956,
+      "lon": 174.7319283
+    }
+  },
+  {
+    "name": "Z Cromwell",
+    "address": "Cnr Barry Avenue and Murray Terrace",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "Fast fill Diesel lane"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-cromwell/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.84
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.52
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.48
+      }
+    ],
+    "coordinates": {
+      "lat": -45.0364077,
+      "lon": 169.1993428
+    }
+  },
+  {
+    "name": "Z Dannevirke truck stop",
+    "address": "School Road (off State Highway 2)",
+    "hours": "Open 24 hours",
+    "services": [],
+    "link": "https://www.z.co.nz/find-a-station/station/z-dannevirke-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.49
+      }
+    ],
+    "coordinates": {
+      "lat": -39.2659011,
+      "lon": 176.8748033
+    }
+  },
+  {
+    "name": "Z Dee St",
+    "address": "206-214 Dee Street, Invercargill",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Pay by plate"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-dee-st/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.01
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.63
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.16
+      }
+    ],
+    "coordinates": {
+      "lat": -46.4051899,
+      "lon": 168.3468803
+    }
+  },
+  {
+    "name": "Z Dunedin truck stop",
+    "address": "Corner Cumberland & Wolseley Street",
+    "hours": "Open 24 hours",
+    "services": ["AdBlue Diesel Exhaust Fluid"],
+    "link": "https://www.z.co.nz/find-a-station/station/z-dunedin-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.25
+      }
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    }
+  },
+  {
+    "name": "Z Fairy Springs",
+    "address": "23 Fairy Springs Road",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "EV Charging - Ultra-Fast",
+      "EV Charging - Fast &/or Ultra-Fast",
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-fairy-springs/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.15
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.18
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.43
+      }
+    ],
+    "coordinates": {
+      "lat": -38.1230823,
+      "lon": 176.2306706
+    }
+  },
+  {
+    "name": "Z Gisborne service station",
+    "address": "300 Gladstone Road",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Compostable Cups"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-gisborne-service-station/",
+    "fuelTypes": [
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.43
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.32
+      }
+    ],
+    "coordinates": {
+      "lat": -27.4919134,
+      "lon": 153.0203955
+    }
+  },
+  {
+    "name": "Z Gore",
+    "address": "Corner Hokonui Drive & Irwell Street",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-gore/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.98
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.95
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.66
+      }
+    ],
+    "coordinates": {
+      "lat": -46.0977567,
+      "lon": 168.9454841
+    }
+  },
+  {
+    "name": "Z Greymouth",
+    "address": "Whall Street",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-greymouth/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.36
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.28
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.21
+      }
+    ],
+    "coordinates": {
+      "lat": 40.7060255,
+      "lon": -74.0088244
+    }
+  },
+  {
+    "name": "Z Grove Rd",
+    "address": "Corner Grove Road & Budge Street",
+    "hours": "Open 24 hours",
+    "services": [
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-grove-rd/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.3
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.91
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.4
+      }
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    }
+  },
+  {
+    "name": "Z Hamilton truck stop",
+    "address": "Corner Lincoln & Edgar Street",
+    "hours": "Open 24 hours",
+    "services": ["AdBlue Diesel Exhaust Fluid"],
+    "link": "https://www.z.co.nz/find-a-station/station/z-hamilton-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.56
+      }
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    }
+  },
+  {
+    "name": "Z Harris Rd",
+    "address": "142 Harris Road",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Compostable Cups",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-harris-rd/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.6
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.22
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.69
+      }
+    ],
+    "coordinates": {
+      "lat": -36.9297024,
+      "lon": 174.8967708
+    }
+  },
+  {
+    "name": "Z Hastings truck stop",
+    "address": "Corner Maraekakaho Road & Francis Hicks Avenue",
+    "hours": "24/7 pay at pump",
+    "services": [],
+    "link": "https://www.z.co.nz/find-a-station/station/z-hastings-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.81
+      }
+    ],
+    "coordinates": {
+      "lat": -39.6337446,
+      "lon": 176.8252804
+    }
+  },
+  {
+    "name": "Z Hawera",
+    "address": "Corner South Road & Princes Street",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-hawera/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.78
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.37
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.06
+      }
+    ],
+    "coordinates": {
+      "lat": 55.9517273,
+      "lon": -3.1979668
+    }
+  },
+  {
+    "name": "Z Hewletts Rd",
+    "address": "81 Hewletts Road",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Pay by plate"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-hewletts-rd/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.62
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.21
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.44
+      }
+    ],
+    "coordinates": {
+      "lat": -37.6662347,
+      "lon": 176.1989896
+    }
+  },
+  {
+    "name": "Z Highbrook",
+    "address": "88 Highbrook Drive",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Pay by plate",
+      "Compostable Cups"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-highbrook/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.47
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.41
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.32
+      }
+    ],
+    "coordinates": {
+      "lat": -36.937719,
+      "lon": 174.8726319
+    }
+  },
+  {
+    "name": "Z Hornby",
+    "address": "Corner Carmen Road & Waterloo Road",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-hornby/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.16
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.12
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.06
+      }
+    ],
+    "coordinates": {
+      "lat": -43.5384549,
+      "lon": 172.5278696
+    }
+  },
+  {
+    "name": "Z Kaikoura truck stop",
+    "address": "Beach Road",
+    "hours": "Open 24 hours",
+    "services": [],
+    "link": "https://www.z.co.nz/find-a-station/station/z-kaikoura-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.95
+      }
+    ],
+    "coordinates": {
+      "lat": 41.4565534,
+      "lon": -70.5904765
+    }
+  },
+  {
+    "name": "Z Kinleith truck stop",
+    "address": "Tram Road",
+    "hours": "Open 24 hours",
+    "services": [],
+    "link": "https://www.z.co.nz/find-a-station/station/z-kinleith-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.04
+      }
+    ],
+    "coordinates": {
+      "lat": -43.3624261,
+      "lon": 172.4711864
+    }
+  },
+  {
+    "name": "Z Lakewood Court",
+    "address": "742 Great South Road",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "EV Charging - Coming Soon",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "Pay by plate",
+      "Compostable Cups"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-lakewood-court/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.99
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.96
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.23
+      }
+    ],
+    "coordinates": {
+      "lat": -36.9949889,
+      "lon": 174.8860805
+    }
+  },
+  {
+    "name": "Z Levin",
+    "address": "11-15 Oxford Street",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "EV Charging - Ultra-Fast",
+      "EV Charging - Fast &/or Ultra-Fast",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "Fast fill Diesel lane",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-levin/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.41
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.24
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.19
+      }
+    ],
+    "coordinates": {
+      "lat": -33.8819956,
+      "lon": 151.2193842
+    }
+  },
+  {
+    "name": "Z Maramarua truck stop",
+    "address": "State Highway 2",
+    "hours": "Open 24 hours",
+    "services": [],
+    "link": "https://www.z.co.nz/find-a-station/station/z-maramarua-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.03
+      }
+    ],
+    "coordinates": {
+      "lat": -39.2659011,
+      "lon": 176.8748033
+    }
+  },
+  {
+    "name": "Z Massey North",
+    "address": "Corner State Highway 16 & Asti Lane",
+    "hours": "Open 24 hours",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "Pay by plate",
+      "Compostable Cups",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-massey-north/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.12
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.42
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.36
+      }
+    ],
+    "coordinates": {
+      "lat": -36.821348,
+      "lon": 174.6089834
+    }
+  },
+  {
+    "name": "Z Masterton",
+    "address": "80 Chapel Street",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "EV Charging - Fast",
+      "EV Charging - Ultra-Fast",
+      "EV Charging - Fast &/or Ultra-Fast",
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-masterton/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.37
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.34
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.99
+      }
+    ],
+    "coordinates": {
+      "lat": -37.867222,
+      "lon": 144.9909213
+    }
+  },
+  {
+    "name": "Z Methven truck stop",
+    "address": "Line Road",
+    "hours": "Open 24 hours",
+    "services": ["AdBlue Diesel Exhaust Fluid"],
+    "link": "https://www.z.co.nz/find-a-station/station/z-methven-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.15
+      }
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    }
+  },
+  {
+    "name": "Z Miro St truck stop",
+    "address": "63 Miro Street",
+    "hours": "Open 24 hours",
+    "services": [],
+    "link": "https://www.z.co.nz/find-a-station/station/z-miro-st-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.78
+      }
+    ],
+    "coordinates": {
+      "lat": -41.1332327,
+      "lon": 175.0499459
+    }
+  },
+  {
+    "name": "Z Napier truck stop",
+    "address": "Austin Street",
+    "hours": "Open 24 hours",
+    "services": ["AdBlue Diesel Exhaust Fluid"],
+    "link": "https://www.z.co.nz/find-a-station/station/z-napier-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.06
+      }
+    ],
+    "coordinates": {
+      "lat": 43.6763084,
+      "lon": -70.2789633
+    }
+  },
+  {
+    "name": "Z Ngatea",
+    "address": "77 Orchard West Road",
+    "hours": "Opening hours",
+    "services": [
+      "EV Charging - Ultra-Fast",
+      "EV Charging - Fast &/or Ultra-Fast",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Super long hoses",
+      "Bathrooms"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-ngatea/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.43
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.74
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.44
+      }
+    ],
+    "coordinates": {
+      "lat": -37.2762761,
+      "lon": 175.4908682
+    }
+  },
+  {
+    "name": "Z Oamaru",
+    "address": "22 Severn Street",
+    "hours": "Open 24 hours",
+    "services": [
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-oamaru/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.13
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.26
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.34
+      }
+    ],
+    "coordinates": {
+      "lat": -43.5042874,
+      "lon": 172.6380308
+    }
+  },
+  {
+    "name": "Z Palmerston North truck stop",
+    "address": "Corner Setters Line & Railway Road",
+    "hours": "Open 24 hours",
+    "services": ["AdBlue Diesel Exhaust Fluid"],
+    "link": "https://www.z.co.nz/find-a-station/station/z-palmerston-north-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.81
+      }
+    ],
+    "coordinates": {
+      "lat": -40.303814,
+      "lon": 175.6050607
+    }
+  },
+  {
+    "name": "Z Petone",
+    "address": "Corner Jackson Street & Hutt Road",
+    "hours": "Open 24 hours",
+    "services": [
+      "EV Charging - Fast",
+      "EV Charging - Fast &/or Ultra-Fast",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "Pay by plate",
+      "Compostable Cups"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-petone/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.05
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.07
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.63
+      }
+    ],
+    "coordinates": {
+      "lat": -41.2224498,
+      "lon": 174.8693088
+    }
+  },
+  {
+    "name": "Z Pokeno truck stop",
+    "address": "Great South Road",
+    "hours": "24/7 pay at pump",
+    "services": ["AdBlue Diesel Exhaust Fluid"],
+    "link": "https://www.z.co.nz/find-a-station/station/z-pokeno-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.12
+      }
+    ],
+    "coordinates": {
+      "lat": -37.0843879,
+      "lon": 174.9420288
+    }
+  },
+  {
+    "name": "Z Port Hills truck stop",
+    "address": "Port Hills Road",
+    "hours": "Open 24 hours",
+    "services": ["AdBlue Diesel Exhaust Fluid"],
+    "link": "https://www.z.co.nz/find-a-station/station/z-port-hills-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.81
+      }
+    ],
+    "coordinates": {
+      "lat": -43.570568,
+      "lon": 172.688169
+    }
+  },
+  {
+    "name": "Z Richmond",
+    "address": "8 Gladstone Road",
+    "hours": "Open 24 hours",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-richmond/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.98
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.29
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.09
+      }
+    ],
+    "coordinates": {
+      "lat": -33.7340596,
+      "lon": 150.977135
+    }
+  },
+  {
+    "name": "Z Roscommon Rd",
+    "address": "147 Roscommon Rd",
+    "hours": "Open 24 hours",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "Compostable Cups",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-roscommon-rd/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.41
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.13
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.83
+      }
+    ],
+    "coordinates": {
+      "lat": -37.0037389,
+      "lon": 174.8534937
+    }
+  },
+  {
+    "name": "Z Rotorua truck stop",
+    "address": "Sala Street",
+    "hours": "Open 24 hours",
+    "services": ["AdBlue Diesel Exhaust Fluid"],
+    "link": "https://www.z.co.nz/find-a-station/station/z-rotorua-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.87
+      }
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    }
+  },
+  {
+    "name": "Z Sanson",
+    "address": "State Highway 1",
+    "hours": "Open 24 hours",
+    "services": [
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-sanson/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.24
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.78
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.45
+      }
+    ],
+    "coordinates": {
+      "lat": -41.3110974,
+      "lon": 173.9793731
+    }
+  },
+  {
+    "name": "Z Sawyers Arms Rd truck stop",
+    "address": "Sawyers Arms Road",
+    "hours": "Open 24 hours",
+    "services": ["AdBlue Diesel Exhaust Fluid"],
+    "link": "https://www.z.co.nz/find-a-station/station/z-sawyers-arms-rd-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.55
+      }
+    ],
+    "coordinates": {
+      "lat": -43.4801627,
+      "lon": 172.589725
+    }
+  },
+  {
+    "name": "Z Seaview",
+    "address": "Cnr Seaview Road and Parkside Road",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pay in app",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Fast fill Diesel lane"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-seaview/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.31
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.15
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.01
+      }
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    }
+  },
+  {
+    "name": "Z Sylvia Park",
+    "address": "510 Mount Wellington Highway",
+    "hours": "Open 24 hours",
+    "services": [
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Pay by plate",
+      "Compostable Cups",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-sylvia-park/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.76
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.27
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.36
+      }
+    ],
+    "coordinates": {
+      "lat": -36.9247796,
+      "lon": 174.8419237
+    }
+  },
+  {
+    "name": "Z Takaka truck stop",
+    "address": "96 Commercial Street",
+    "hours": "Open 24 hours",
+    "services": [],
+    "link": "https://www.z.co.nz/find-a-station/station/z-takaka-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.12
+      }
+    ],
+    "coordinates": {
+      "lat": 51.5197178,
+      "lon": -0.0742776
+    }
+  },
+  {
+    "name": "Z Te Kuiti",
+    "address": "76 Te Kumi Road",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "EV Charging - Fast",
+      "EV Charging - Fast &/or Ultra-Fast",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-te-kuiti/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.28
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.27
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.22
+      }
+    ],
+    "coordinates": {
+      "lat": -38.3235205,
+      "lon": 175.1527453
+    }
+  },
+  {
+    "name": "Z Templeton",
+    "address": "720 Main South Road",
+    "hours": "Open 24 hours",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Pay by plate"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-templeton/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.91
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.07
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.55
+      }
+    ],
+    "coordinates": {
+      "lat": -43.549495,
+      "lon": 172.4883507
+    }
+  },
+  {
+    "name": "Z Tirau truck stop",
+    "address": "Corner State Highway 1 & State Highway 27",
+    "hours": "Open 24 hours",
+    "services": [],
+    "link": "https://www.z.co.nz/find-a-station/station/z-tirau-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.37
+      }
+    ],
+    "coordinates": {
+      "lat": -41.3110974,
+      "lon": 173.9793731
+    }
+  },
+  {
+    "name": "Z Tokoroa truck stop",
+    "address": "Browning Street",
+    "hours": "Open 24 hours",
+    "services": [],
+    "link": "https://www.z.co.nz/find-a-station/station/z-tokoroa-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.3
+      }
+    ],
+    "coordinates": {
+      "lat": -43.5506034,
+      "lon": 172.6306668
+    }
+  },
+  {
+    "name": "Z Turangi",
+    "address": "Corner State Highway 1 & Pihanga Road",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "EV Charging - Fast",
+      "EV Charging - Fast &/or Ultra-Fast",
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-turangi/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.13
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.72
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.3
+      }
+    ],
+    "coordinates": {
+      "lat": -38.9905161,
+      "lon": 175.8108371
+    }
+  },
+  {
+    "name": "Z Waharoa truck stop",
+    "address": "Factory Road",
+    "hours": "Open 24 hours",
+    "services": [],
+    "link": "https://www.z.co.nz/find-a-station/station/z-waharoa-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.74
+      }
+    ],
+    "coordinates": {
+      "lat": -41.3787261,
+      "lon": 173.1190758
+    }
+  },
+  {
+    "name": "Z Waiouru",
+    "address": "State Highway 1",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "EV Charging - Fast",
+      "EV Charging - Ultra-Fast",
+      "EV Charging - Fast &/or Ultra-Fast",
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-waiouru/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.45
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.53
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.54
+      }
+    ],
+    "coordinates": {
+      "lat": -41.3110974,
+      "lon": 173.9793731
+    }
+  },
+  {
+    "name": "Z Waipapa truck stop",
+    "address": "1913 State Highway 10",
+    "hours": "Open 24 hours",
+    "services": ["AdBlue Diesel Exhaust Fluid"],
+    "link": "https://www.z.co.nz/find-a-station/station/z-waipapa-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.88
+      }
+    ],
+    "coordinates": {
+      "lat": -35.2168038,
+      "lon": 173.9202607
+    }
+  },
+  {
+    "name": "Z Wairoa",
+    "address": "3 Achilles Street",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "EV Charging - Coming Soon",
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-wairoa/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.91
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.44
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.32
+      }
+    ],
+    "coordinates": {
+      "lat": -37.7349119,
+      "lon": 145.0435001
+    }
+  },
+  {
+    "name": "Z Waiwhakaiho",
+    "address": "Corner Devon Road & Smart Road",
+    "hours": "Open 24 hours",
+    "services": [
+      "EV Charging - Coming Soon",
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Pay by plate"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-waiwhakaiho/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.26
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.76
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.87
+      }
+    ],
+    "coordinates": {
+      "lat": -39.0503993,
+      "lon": 174.1109983
+    }
+  },
+  {
+    "name": "Z Whangarei truck stop",
+    "address": "Kioreroa Road",
+    "hours": "Open 24 hours",
+    "services": ["AdBlue Diesel Exhaust Fluid"],
+    "link": "https://www.z.co.nz/find-a-station/station/z-whangarei-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.73
+      }
+    ],
+    "coordinates": {
+      "lat": -35.7442595,
+      "lon": 174.3268376
+    }
+  },
+  {
+    "name": "Z Winton truck stop",
+    "address": "39 Great North Road",
+    "hours": "Open 24 hours",
+    "services": [],
+    "link": "https://www.z.co.nz/find-a-station/station/z-winton-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.58
+      }
+    ],
+    "coordinates": {
+      "lat": -36.8600839,
+      "lon": 174.7518237
+    }
+  },
+  {
+    "name": "Z Washdyke truck stop",
+    "address": "55 Sheffield Street",
+    "hours": "Open 24 hours",
+    "services": ["AdBlue Diesel Exhaust Fluid"],
+    "link": "https://www.z.co.nz/find-a-station/station/z-washdyke-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.18
+      }
+    ],
+    "coordinates": {
+      "lat": -34.9627542,
+      "lon": 138.6110277
+    }
+  },
+  {
+    "name": "Z Bombay",
+    "address": "Cnr Mill Road & Great South Road",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "EV Charging - Fast",
+      "EV Charging - Ultra-Fast",
+      "EV Charging - Fast &/or Ultra-Fast",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "Pay by plate",
+      "Compostable Cups",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-bombay/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.88
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.1
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.2
+      }
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    }
+  },
+  {
+    "name": "Z Russley",
+    "address": "2 Russley Road, Russley, Christchurch",
+    "hours": "Open 24 hours",
+    "services": [
+      "EV Charging - Fast",
+      "EV Charging - Ultra-Fast",
+      "EV Charging - Fast &/or Ultra-Fast",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "Pay by plate",
+      "Compostable Cups",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-russley/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.07
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.36
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.2
+      }
+    ],
+    "coordinates": {
+      "lat": -43.5200443,
+      "lon": 172.5350451
+    }
+  },
+  {
+    "name": "Z Rangiora",
+    "address": "300 High Street, Waimakariri, Rangiora 7400",
+    "hours": "Open 24 hours",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "Pay by plate",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-rangiora/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.02
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.47
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.87
+      }
+    ],
+    "coordinates": {
+      "lat": -43.3040734,
+      "lon": 172.5901235
+    }
+  },
+  {
+    "name": "Z Sandringham",
+    "address": "340 Sandringham Road, Auckland",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "Pay by plate",
+      "Compostable Cups",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-sandringham/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.61
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.45
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.1
+      }
+    ],
+    "coordinates": {
+      "lat": -36.8848714,
+      "lon": 174.738734
+    }
+  },
+  {
+    "name": "Z Rolleston",
+    "address": "4 Brookside Road",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "EV Charging - Fast",
+      "EV Charging - Ultra-Fast",
+      "EV Charging - Fast &/or Ultra-Fast",
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "Pay by plate",
+      "Compostable Cups"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-rolleston/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.06
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.56
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.08
+      }
+    ],
+    "coordinates": {
+      "lat": -43.591997,
+      "lon": 172.3773596
+    }
+  },
+  {
+    "name": "Z Ashburton South truck stop",
+    "address": "128 South Street, Ashburton",
+    "hours": "Open 24 hours",
+    "services": ["AdBlue Diesel Exhaust Fluid"],
+    "link": "https://www.z.co.nz/find-a-station/station/z-ashburton-south-truck-stop/",
+    "fuelTypes": [],
+    "coordinates": {
+      "lat": -43.911949,
+      "lon": 171.7462105
+    }
+  },
+  {
+    "name": "Z Remutaka",
+    "address": "1193 Fergusson Drive North",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "EV Charging - Fast",
+      "EV Charging - Fast &/or Ultra-Fast",
+      "f'real",
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Pay by plate",
+      "Compostable Cups",
+      "Fast fill Diesel lane",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-remutaka/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 2.4
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 1.71
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 2.34
+      }
+    ],
+    "coordinates": {
+      "lat": -41.1088673,
+      "lon": 175.0973338
+    }
+  },
+  {
+    "name": "Z Remutaka truck stop",
+    "address": "1193 Fergusson Drive North",
+    "hours": "24/7 pay at pump",
+    "services": [
+      "Pre-order Coffee",
+      "Pay in app",
+      "Z Espress Coffee & Fresh Food",
+      "Z2O carwash",
+      "Trailer hire",
+      "LPG SWAP'n'GO",
+      "Pay at pump",
+      "Super long hoses",
+      "Bathrooms",
+      "A-Z Screen",
+      "Pay by plate",
+      "Compostable Cups",
+      "Fast fill Diesel lane",
+      "ATM"
+    ],
+    "link": "https://www.z.co.nz/find-a-station/station/z-remutaka-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "ZX Premium",
+        "pricePerLitre": 1.64
+      },
+      {
+        "type": "Z91 Unleaded",
+        "pricePerLitre": 2.27
+      },
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.2
+      }
+    ],
+    "coordinates": {
+      "lat": -41.1088673,
+      "lon": 175.0973338
+    }
+  },
+  {
+    "name": "Z Nelson Port truck stop",
+    "address": "Corner Wildman Ave & Hay Street",
+    "hours": "24/7 pay at pump",
+    "services": ["AdBlue Diesel Exhaust Fluid"],
+    "link": "https://www.z.co.nz/find-a-station/station/z-nelson-port-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.9
+      }
+    ],
+    "coordinates": {
+      "lat": null,
+      "lon": null
+    }
+  },
+  {
+    "name": "Z Bombay truck stop",
+    "address": "Great South Road",
+    "hours": "24/7 pay at pump",
+    "services": ["Bathrooms", "AdBlue Diesel Exhaust Fluid"],
+    "link": "https://www.z.co.nz/find-a-station/station/z-bombay-truck-stop/",
+    "fuelTypes": [
+      {
+        "type": "Z Diesel",
+        "pricePerLitre": 1.05
+      }
+    ],
+    "coordinates": {
+      "lat": -37.0843879,
+      "lon": 174.9420288
+    }
+  }
+]
